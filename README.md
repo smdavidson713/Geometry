@@ -1,0 +1,2 @@
+# Geometry
+demostrates static methods
